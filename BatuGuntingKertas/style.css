@@ -1,0 +1,8 @@
+.choices button {
+  min-width: 100px;
+  font-size: 1.2rem;
+}
+
+.result h5, .result h4 {
+  margin: 10px 0;
+}
